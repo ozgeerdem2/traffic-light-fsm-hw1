@@ -64,20 +64,6 @@ module traffic_fsm (
     end
 
 endmodule
-A
-A
-A
-A
-A
-A
 
-A
-A
-A
 
-A
-A
-A
-
-A
 
